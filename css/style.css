@@ -53,9 +53,9 @@
 .container-to-every-featured{
     display: flex;
     justify-content: space-around;
-    width: 800px;
-    padding: 75px;
-    margin-left: 120px;
+    width: 900px;
+    padding: 70px;
+    margin-left: 200px;
 }
 .featured-flower-container{
     width: 180px;
@@ -123,7 +123,8 @@
     display: flex;
     justify-content: space-around;
     width: 800px;
-    margin-left: 108px;
+    margin-left: 290px;
+    padding: 40px;
     margin-top: 30px;
 }
 .our-decoration-titles{
@@ -160,6 +161,7 @@
     align-items: center;
     width: 800px;
     padding: 95px;
+    margin-left: 250px;
     height: 100px;
 
 }
@@ -216,7 +218,7 @@
 .get-details-container{
     background-image: url("../assets/Rectangle\ 9.png");
     width: 800px;
-    margin-left: 100px;
+    margin-left: 400px;
 }
 .get-details{
     text-align: center;
