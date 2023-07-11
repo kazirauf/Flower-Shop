@@ -54,7 +54,8 @@
     display: flex;
     justify-content: space-around;
     width: 800px;
-    padding: 80px;
+    padding: 75px;
+    margin-left: 120px;
 }
 .featured-flower-container{
     width: 180px;
